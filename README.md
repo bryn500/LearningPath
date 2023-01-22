@@ -2,7 +2,6 @@
 Things to learn or practice
 
 # db
-- [ ] Dapper
 - [ ] EF Change Tracking API
 - [ ] ef 2nd level cache
 - [ ] Redis
