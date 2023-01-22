@@ -8,7 +8,6 @@ Things to learn or practice
 - [ ] dapper
 
 # logging
-- [ ] elasticSearch
 - [ ] seriLog
 - [ ] ELKstack
 - [ ] open telemetry
@@ -44,6 +43,7 @@ Things to learn or practice
 - [ ] Kubernetes
 
 ## other libraries
+- [ ] elasticSearch
 - [ ] Polly
 - [ ] MediatR
 - [ ] FluentValidation
